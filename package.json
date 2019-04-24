@@ -1,5 +1,5 @@
 {
-  "name": "phpsmsapi",
+  "name": "smsapi",
   "version": "1.0.0",
   "description": "a php script to execute a automated sms to phones",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "phpsmsapi"
+    "url": "smsapi"
   },
   "keywords": [
     "smsapi"
