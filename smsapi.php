@@ -8,7 +8,7 @@
         $sender = urlencode("$sender");
             // the $recipient contains the destination number(s)
         $recipient = urlencode("$recipient");
-            // change API_USERNAME to your API username
+            // change API_USERNAME to your API usernamegit 
         $api_username = "API_USERNAME";
             //change API_PASSWORD tou your API password
         $api_password = "API_PASSWORD";
